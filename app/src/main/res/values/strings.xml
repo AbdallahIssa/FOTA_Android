@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FOTA Android</string>
+    <string name="Registration">Registration</string>
+    <string name="UserName">UserName</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Register">Register</string>
+    <string name="LoginNow">Login Now</string>
+    <string name="NotAMember">Not A member? Register Now</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211919530917",
+    "project_id": "fota-car",
+    "storage_bucket": "fota-car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211919530917:android:2ae17c0a501ebda3a4564c",
+        "android_client_info": {
+          "package_name": "com.example.fotacar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211919530917-e527bvnotdu8iosk3jeme47t431k704q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fotacar",
+            "certificate_hash": "001738f669b093c2a023c29b72c11a100e548dcb"
+          }
+        },
+        {
+          "client_id": "211919530917-ih2kvt3inbqcpp89gpqf6hlmh1iln7q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9EL40WWn4kk5Xrf9vZgOC-6J3odgUFCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211919530917-ih2kvt3inbqcpp89gpqf6hlmh1iln7q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
